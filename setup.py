@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pymicro365",
-    version="0.0.6",
+    version="0.0.7",
     author="Informatic365",
     author_email="chen.runkang1@gmail.com",
     description="This is a module to simplify closing the PC",
